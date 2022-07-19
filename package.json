@@ -1,16 +1,20 @@
 {
-  "version": "0.0.0",
+  "name": "niicoe.co",
+  "private": true,
   "scripts": {
-    "dev": "vite",
-    "build": "vite build",
-    "serve": "vite preview"
+    "build": "gridsome build",
+    "develop": "gridsome develop",
+    "explore": "gridsome explore"
   },
   "dependencies": {
-    "vue": "^3.0.5"
+    "@gridsome/plugin-google-analytics": "^0.1.2",
+    "@gridsome/remark-prismjs": "^0.5.0",
+    "@gridsome/source-filesystem": "^0.6.2",
+    "@gridsome/transformer-remark": "^0.6.4",
+    "gridsome": "^0.7.23"
   },
   "devDependencies": {
-    "@vitejs/plugin-vue": "^1.2.3",
-    "@vue/compiler-sfc": "^3.0.5",
-    "vite": "^2.3.7"
+    "node-sass": "^5.0.0",
+    "sass-loader": "^10.0.3"
   }
 }
