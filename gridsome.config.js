@@ -29,6 +29,13 @@ module.exports = {
         },
       },
     },
+
+    {
+      use: '@gridsome/plugin-google-analytics',
+      options: {
+        id: process.env.GOOGLE_UA_TRACKING_ID,
+      },
+    },
   ],
 
   transformers: {
