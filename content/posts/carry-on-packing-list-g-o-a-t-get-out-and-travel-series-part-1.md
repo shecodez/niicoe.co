@@ -9,11 +9,13 @@ tags:
 description: I know it's tempting try to pack everything but the kitchen sink
   --but you are the GOAT not a pack mule!
 ---
-> Okay who here gets a little stressed when it's time to pack for a trip? 
+Okay who here gets a little stressed when it's time to pack for a trip? 
 
-<img src="https://media.giphy.com/media/2LM1PMisy0Lvo0qmp8/giphy.gif" width="250" height="200" alt="Raise hand gif">  
-<img src="https://media.giphy.com/media/3o7TKFy1gaoy1JNqZG/giphy.gif" width="250" height="200" alt="Raise hand gif">  
-<img src="https://media.giphy.com/media/dBCi8mG5jR8cqgejwj/giphy.gif" width="250" height="200" alt="Raise hand gif">  
+<div style="display: flex;">
+<img src="https://media.giphy.com/media/2LM1PMisy0Lvo0qmp8/giphy.gif" width="250" height="auto" alt="Raise hand gif">  
+<img src="https://media.giphy.com/media/3o7TKFy1gaoy1JNqZG/giphy.gif" width="250" height="auto" alt="SNL oversized Luggage">  
+<img src="https://media.giphy.com/media/dBCi8mG5jR8cqgejwj/giphy.gif" width="250" height="auto" alt="TSA says no">  
+</div>
 
 I know it's tempting try to pack everything but the kitchen sink --but you are the GOAT not a pack mule!
 
@@ -24,9 +26,11 @@ No matter if I choose to travel light and take only carry on (plus the personal 
 
 So today, I'm sharing my go-to eco-friendly carry on packing list that I use no matter where or for how long I fly. I hope it helps you save some time and effort so you can G.O.A.T. - Get Out And Travel all the way to your next destination. 
 
-<img src="https://media.giphy.com/media/OqNBIjnudq2D6/giphy.gif" width="250" height="200" alt="Goat riding">
-<img src="https://media.giphy.com/media/JUF4VzkcF04L5almhT/giphy.gif" width="250" height="200" alt="Goat riding">
-<img src="https://media.giphy.com/media/4VBMKtNpJW2Xe/giphy.gif" width="250" height="200" alt="Goat riding">
+<div style="display: flex;">
+<img src="https://media.giphy.com/media/OqNBIjnudq2D6/giphy.gif" width="250" height="auto" alt="Goat riding">
+<img src="https://media.giphy.com/media/JUF4VzkcF04L5almhT/giphy.gif" width="250" height="auto" alt="U R the G.O.A.T">
+<img src="https://media.giphy.com/media/4VBMKtNpJW2Xe/giphy.gif" width="250" height="auto" alt="Goat driving">
+</div>
 
 ### Carry On... my wayward son
 
@@ -46,7 +50,7 @@ With this duo, I don't even need a check-in bag sometimes. There's something nic
 
 ### Backpack, Backpack!
 
-<blockquote class="tiktok-embed" cite="https://www.tiktok.com/@nicktrawick13/video/7063215311792655663" data-video-id="7063215311792655663" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@nicktrawick13" href="https://www.tiktok.com/@nicktrawick13">@nicktrawick13</a> Make it make sense 😭 <a title="fypシ" target="_blank" href="https://www.tiktok.com/tag/fyp%E3%82%B7">#fypシ</a> <a title="foryoupage" target="_blank" href="https://www.tiktok.com/tag/foryoupage">#foryoupage</a> <a title="comedy" target="_blank" href="https://www.tiktok.com/tag/comedy">#comedy</a> <a title="viral" target="_blank" href="https://www.tiktok.com/tag/viral">#viral</a> <a title="trending" target="_blank" href="https://www.tiktok.com/tag/trending">#trending</a> <a title="doratheexplorer" target="_blank" href="https://www.tiktok.com/tag/doratheexplorer">#doratheexplorer</a> <a title="greenscreen" target="_blank" href="https://www.tiktok.com/tag/greenscreen">#greenscreen</a> <a title="blacktiktok" target="_blank" href="https://www.tiktok.com/tag/blacktiktok">#blacktiktok</a> <a title="trending" target="_blank" href="https://www.tiktok.com/tag/trending">#trending</a> <a target="_blank" title="♬ Backpack, Backpack! - Dora The Explorer" href="https://www.tiktok.com/music/Backpack-Backpack-5000000000281871272">♬ Backpack, Backpack! - Dora The Explorer</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
+<div class="tiktok-embed" cite="https://www.tiktok.com/@nicktrawick13/video/7063215311792655663" data-video-id="7063215311792655663" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@nicktrawick13" href="https://www.tiktok.com/@nicktrawick13">@nicktrawick13</a> Make it make sense 😭 <a title="fypシ" target="_blank" href="https://www.tiktok.com/tag/fyp%E3%82%B7">#fypシ</a> <a title="foryoupage" target="_blank" href="https://www.tiktok.com/tag/foryoupage">#foryoupage</a> <a title="comedy" target="_blank" href="https://www.tiktok.com/tag/comedy">#comedy</a> <a title="viral" target="_blank" href="https://www.tiktok.com/tag/viral">#viral</a> <a title="trending" target="_blank" href="https://www.tiktok.com/tag/trending">#trending</a> <a title="doratheexplorer" target="_blank" href="https://www.tiktok.com/tag/doratheexplorer">#doratheexplorer</a> <a title="greenscreen" target="_blank" href="https://www.tiktok.com/tag/greenscreen">#greenscreen</a> <a title="blacktiktok" target="_blank" href="https://www.tiktok.com/tag/blacktiktok">#blacktiktok</a> <a title="trending" target="_blank" href="https://www.tiktok.com/tag/trending">#trending</a> <a target="_blank" title="♬ Backpack, Backpack! - Dora The Explorer" href="https://www.tiktok.com/music/Backpack-Backpack-5000000000281871272">♬ Backpack, Backpack! - Dora The Explorer</a> </section> </div> <script async src="https://www.tiktok.com/embed.js"></script>
 
 Now while I don't condone using your backpack to store stolen egg roll, no matter how tasty, from the all you can eat Chinese buffet. 🤣 I do absolute love a versatile backpack that can store all my gear whether it's just clothes for the weekend or expensive tech and camera gear. After years of searching, then another waiting for it be on sale, I finally acquired the [Wandrd PRVKE 21](https://www.wandrd.com/products/prvke?variant=39289416122448). My friends thought it was so nice last time we all vacationed together, two (2) of them recently bought one for themselves. Since I purchased mine (years ago) they've made some improvements.
 
@@ -56,7 +60,6 @@ Now while I don't condone using your backpack to store stolen egg roll, no matte
 >
 > Inside the PRVKE  we updated the laptop/tablet closure system and added 3 new pockets on the laptop/tablet sleeve. 
 >
->
 > Finally, we removed the liner flap that covered the Camera Cube compartment for quick access to your gear. The perfect bag just got perfect-er.  
 
 The Wandrd PRVKE comes in two sizes the PRVKE 21(L) (Dimensions: 43 X 28 X 17 cm (17"H X 11"W X 6.5"D)) and the PRVKE 31(L) (Dimensions: 48 X 30 X 18 cm (19"H X 12"W X 7"D)). And with the stylish roll top design, by fully extending it you can increase the volume the bag can carry by +5L. I'm sure no matter what size you decide to go with you'll love it. It's a really amazing bag!
@@ -64,3 +67,51 @@ The Wandrd PRVKE comes in two sizes the PRVKE 21(L) (Dimensions: 43 X 28 X 17 cm
 ### They see me rollin' the hatin'
 
 The dimension limit for a carry on varies with the airline but the standard allowance is 22" high, 14" wide, and 9" deep. I personally use a 20" hard shell aluminum frame spinner with built-in TSA lock and no zippers by Calvin Klein but this [Winbest Aluminum Spinner](https://amzn.to/3cw84Yo) while not an exact match for the CK, it is pretty darn close in both looks and functionality. Since the CK was a gift from my late mother keep it in excellent shape with this [PVC transparent suitcase cover](https://amzn.to/3B4d9RH). It'll also protect all the stickers I plan to cover it with from all my travels. 😊
+
+### Now we get to what's in the backpack, backpack
+
+<img src="https://media.giphy.com/media/ebzwY2rjZ8WFW/giphy.gif">
+
+Why can't we just pack a couple puppies our backpack and call it a day... so freaking cute!
+
+> **IMPORTANT NOTE**: All the items in the list (even the optional ones) can fit inside either the [Wandrd PRVKE 21](https://www.wandrd.com/products/prvke?variant=39289416122448) or the [Amazon Basics Golf Duffel Bag](https://amzn.to/3B4yj2e) alone. In fact, even after everything is below is packed up, I still have space left over for extras, and you will too. Thank me later!
+
+#### Documents and Important stuff
+  * passport/ids
+  * itinerary 
+  * cash/credit cards
+  * travel insurance
+  * spare clothes
+  * valuables
+
+#### Comfort Items
+  * earplugs, eye mask, neck pillow (optional)
+  * snacks (optional)
+  * toothbrush, floss, mints, face masks
+  * water bottle
+  * pen
+  * glasses / sun glasses
+  * medication
+  * makeup
+  * misc
+
+#### Liquids Pouch (optional)
+
+If you plan to pack liquids in your carry on bag, you will need a TSA-Approved clear liquid pouch to place it in. The [Sepduvon Toiletry Bag](https://amzn.to/3OlEamL) comes with a removable clear liquid pouch. I like that I can place it back in the toiletry bag once I clear TSA. I keep the following in my liquids bag:   
+  - Cute Penguin Shaped [Silicon Leak Proof Travel Size Bottles](https://amzn.to/3OqCM2a) four (4) Piece Set 
+  - 20ml [Silicone Cream Jars](https://amzn.to/3zihvUa) three (3) Piece Set 
+  - [CeraVe Facial Moisturizing Lotion 3oz. AM/PM Bundle](https://amzn.to/3PokfF8)
+  - [CeraVe Eye Repair Cream](https://amzn.to/3yVtGov)
+  - A [Matador FlatPak Bottle](https://amzn.to/3aWHLKr) that always contains my favorite [100% Aloe Vera Soothing & Moisture Gel](https://amzn.to/3RNnYh2)
+
+I'll save the detailed info on the what is in the bottles and jars for another post. 😉
+  
+#### Tech and Toys
+
+The camera, the apps, and the entertainment all in one little device makes packing a smartphone with you a no-brainer. I personally use the [iPhone 11](https://amzn.to/3cqvu1c) with the [Apple Watch Series 4](https://amzn.to/3RRxD6o). They make a great combo. I prefer bring my [11" iPad Pro](https://amzn.to/3RRxD6o) with the Kindle app rather than a Kindle e-reader, but if you just plan to read and only read for entertainment on your trip I've heard the Kindle Paperwhite battery practically lasts forever. I don't carry my laptop to every trip but when I do I take the [13" MacBook Air](https://amzn.to/3PM08AG). Its small, light, and the battery usually lasts a full work day and then some. But because Apple doesn't believe in ports I do have to carry this [NOVOO USB C Hub](https://amzn.to/3RRAn3G) too but it fits nicely in my [electronics organizer](https://amzn.to/3v5QYqJ). Every since I bought the [SONY WH-1000XM3 Wireless Noise canceling Stereo Headset](https://amzn.to/3cxHxdf) whew what a mouth full I cannot go on a plane without them. How in the world I did flights before the wonder of noise canceling I'll never know. The [Nintendo Switch](https://amzn.to/3v118ZK) is another one of those things I don't always carry but I'm a nerd and can't help myself sometimes. I don't have a dedicated camera yet but I'm really considering buying the [Sony A7C](https://electronics.sony.com/imaging/interchangeable-lens-cameras/all-interchangeable-lens-cameras/p/ilce7c-b) until then my good ol' iPhone 11 camera is good enough. For data storage I have a [SAMSUNG T7 Touch Portable SSD 500GB](https://amzn.to/3OntGDm) but I'll admit, I think the fingerprint reader is probably overkill. I pretty much throw all the power bricks from my electronics, a [Road Warrior universal travel adapter](https://amzn.to/3ojRtJU), an [Anker power strip](https://amzn.to/3B1FtUZ), and anything else that doesn't fit in my electronics organizer in a sac and call it a day. For all the times I forget to charge my gear the night before I need it, you would think I have a power bank or two... but I don't (I'm working on that). I also don't have a pocket Wi-Fi yet but I'm eyeballin' [this one](https://www.amazon.com/dp/B08HN54SV2/?coliid=I1D78P735UZS20&colid=3SF5647CI1SE4&ref_=lv_ov_lig_dp_it&th=1) because I totally need to bypass the firewall in china without a VPN... 🙄
+
+### Airport outfit
+
+* footwear
+* compression socks (optional)
+* hoodie/oversize scarf
