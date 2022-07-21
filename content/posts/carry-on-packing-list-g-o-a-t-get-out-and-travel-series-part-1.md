@@ -12,10 +12,10 @@ description: I know it's tempting try to pack everything but the kitchen sink
 Okay who here gets a little stressed when it's time to pack for a trip? 
 
 <div style="display: flex;">
-<img src="https://media.giphy.com/media/2LM1PMisy0Lvo0qmp8/giphy.gif" width="250" height="auto" alt="Raise hand gif">  
-<img src="https://media.giphy.com/media/3o7TKFy1gaoy1JNqZG/giphy.gif" width="250" height="auto" alt="SNL oversized Luggage">  
-<img src="https://media.giphy.com/media/dBCi8mG5jR8cqgejwj/giphy.gif" width="250" height="auto" alt="TSA says no">  
-</div>
+<img src="https://media.giphy.com/media/2LM1PMisy0Lvo0qmp8/giphy.gif" width="33%" height="auto" alt="Raise hand gif">  
+<img src="https://media.giphy.com/media/3o7TKFy1gaoy1JNqZG/giphy.gif" width="33%" height="auto" alt="SNL oversized Luggage">  
+<img src="https://media.giphy.com/media/dBCi8mG5jR8cqgejwj/giphy.gif" width="33%" height="auto" alt="TSA says no">  
+</div> 
 
 I know it's tempting try to pack everything but the kitchen sink --but you are the GOAT not a pack mule!
 
@@ -26,11 +26,7 @@ No matter if I choose to travel light and take only carry on (plus the personal 
 
 So today, I'm sharing my go-to eco-friendly carry on packing list that I use no matter where or for how long I fly. I hope it helps you save some time and effort so you can G.O.A.T. - Get Out And Travel all the way to your next destination. 
 
-<div style="display: flex;">
-<img src="https://media.giphy.com/media/OqNBIjnudq2D6/giphy.gif" width="250" height="auto" alt="Goat riding">
-<img src="https://media.giphy.com/media/JUF4VzkcF04L5almhT/giphy.gif" width="250" height="auto" alt="U R the G.O.A.T">
 <img src="https://media.giphy.com/media/4VBMKtNpJW2Xe/giphy.gif" width="250" height="auto" alt="Goat driving">
-</div>
 
 ### Carry On... my wayward son
 
@@ -50,7 +46,7 @@ With this duo, I don't even need a check-in bag sometimes. There's something nic
 
 ### Backpack, Backpack!
 
-<div class="tiktok-embed" cite="https://www.tiktok.com/@nicktrawick13/video/7063215311792655663" data-video-id="7063215311792655663" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@nicktrawick13" href="https://www.tiktok.com/@nicktrawick13">@nicktrawick13</a> Make it make sense 😭 <a title="fypシ" target="_blank" href="https://www.tiktok.com/tag/fyp%E3%82%B7">#fypシ</a> <a title="foryoupage" target="_blank" href="https://www.tiktok.com/tag/foryoupage">#foryoupage</a> <a title="comedy" target="_blank" href="https://www.tiktok.com/tag/comedy">#comedy</a> <a title="viral" target="_blank" href="https://www.tiktok.com/tag/viral">#viral</a> <a title="trending" target="_blank" href="https://www.tiktok.com/tag/trending">#trending</a> <a title="doratheexplorer" target="_blank" href="https://www.tiktok.com/tag/doratheexplorer">#doratheexplorer</a> <a title="greenscreen" target="_blank" href="https://www.tiktok.com/tag/greenscreen">#greenscreen</a> <a title="blacktiktok" target="_blank" href="https://www.tiktok.com/tag/blacktiktok">#blacktiktok</a> <a title="trending" target="_blank" href="https://www.tiktok.com/tag/trending">#trending</a> <a target="_blank" title="♬ Backpack, Backpack! - Dora The Explorer" href="https://www.tiktok.com/music/Backpack-Backpack-5000000000281871272">♬ Backpack, Backpack! - Dora The Explorer</a> </section> </div> <script async src="https://www.tiktok.com/embed.js"></script>
+<blockquote class="tiktok-embed" cite="https://www.tiktok.com/@nicktrawick13/video/7063215311792655663" data-video-id="7063215311792655663" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@nicktrawick13" href="https://www.tiktok.com/@nicktrawick13">@nicktrawick13</a> Make it make sense 😭 <a title="fypシ" target="_blank" href="https://www.tiktok.com/tag/fyp%E3%82%B7">#fypシ</a> <a title="foryoupage" target="_blank" href="https://www.tiktok.com/tag/foryoupage">#foryoupage</a> <a title="comedy" target="_blank" href="https://www.tiktok.com/tag/comedy">#comedy</a> <a title="viral" target="_blank" href="https://www.tiktok.com/tag/viral">#viral</a> <a title="trending" target="_blank" href="https://www.tiktok.com/tag/trending">#trending</a> <a title="doratheexplorer" target="_blank" href="https://www.tiktok.com/tag/doratheexplorer">#doratheexplorer</a> <a title="greenscreen" target="_blank" href="https://www.tiktok.com/tag/greenscreen">#greenscreen</a> <a title="blacktiktok" target="_blank" href="https://www.tiktok.com/tag/blacktiktok">#blacktiktok</a> <a title="trending" target="_blank" href="https://www.tiktok.com/tag/trending">#trending</a> <a target="_blank" title="♬ Backpack, Backpack! - Dora The Explorer" href="https://www.tiktok.com/music/Backpack-Backpack-5000000000281871272">♬ Backpack, Backpack! - Dora The Explorer</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
 
 Now while I don't condone using your backpack to store stolen egg roll, no matter how tasty, from the all you can eat Chinese buffet. 🤣 I do absolute love a versatile backpack that can store all my gear whether it's just clothes for the weekend or expensive tech and camera gear. After years of searching, then another waiting for it be on sale, I finally acquired the [Wandrd PRVKE 21](https://www.wandrd.com/products/prvke?variant=39289416122448). My friends thought it was so nice last time we all vacationed together, two (2) of them recently bought one for themselves. Since I purchased mine (years ago) they've made some improvements.
 
@@ -77,38 +73,53 @@ Why can't we just pack a couple puppies our backpack and call it a day... so fre
 > **IMPORTANT NOTE**: All the items in the list (even the optional ones) can fit inside either the [Wandrd PRVKE 21](https://www.wandrd.com/products/prvke?variant=39289416122448) or the [Amazon Basics Golf Duffel Bag](https://amzn.to/3B4yj2e) alone. In fact, even after everything is below is packed up, I still have space left over for extras, and you will too. Thank me later!
 
 #### Documents and Important stuff
-  * passport/ids
-  * itinerary 
-  * cash/credit cards
-  * travel insurance
-  * spare clothes
-  * valuables
+
+* passport/ids
+* itinerary 
+* cash/credit cards
+* travel insurance
+* spare clothes
+* valuables
 
 #### Comfort Items
-  * earplugs, eye mask, neck pillow (optional)
-  * snacks (optional)
-  * toothbrush, floss, mints, face masks
-  * water bottle
-  * pen
-  * glasses / sun glasses
-  * medication
-  * makeup
-  * misc
+For the love of comfort don't leave your house without mints, a snack, and a reusable water bottle! Here are my personal favorites:
+- **Earplugs, Eye Mask, Neck Pillow** (optional): you can usually get all of these in a set, but I only pack these [lavender warming eye masks](https://amzn.to/3IVJHPJ) from Japan  because I always have my noise canceling headphones and a hoodie or oversized scarf that can double as a neck pillow. #multipurpose
+- **Snacks** (optional for who?!) my go to is Gardetto Rosted Garlic Rye Chips and Blue Diamond Smokehouse Almonds.
+- **Toothbrush, Floss, Face Mask, Sheet Mask** (optional): I keep a [quip Electric Toothbrush](https://amzn.to/3ct5a6z) (because I'm extra and can't live without an electric toothbrush even when traveling), quip floss dispenser, tongue scraper, a spare [face mask](https://amzn.to/3yWzxKi), and a [sheet mask pack](https://amzn.to/3cyPRco) in a [small mesh nylon zipper pouch](https://amzn.to/3Ptyk48).
+- **Waterbottle/Tumbler**: You already know you need to stay hydrated, but you want to help save the planet while also saving your wallet from airport bottled water prices why not invest in a reusable water bottle. I have a [KOR ONE - 750mL/25oz](https://amzn.to/3IV2MBG) water bottle for sporty adventures and a [Fellow Carter Everywhere Travel Mug - 16oz](https://amzn.to/3OirHQQ) for everything else. I also have a Starbucks Stanley collaboration Travel Mug French Press Mug, but I never use it.
+- **Pen**: You don't need anything fancy, just a Lamy Safari Fountain Pen, just kidding any ol' black/blue ink pen will work incase public pens kind of gross you out and need to fill out some forms on the plane or at immigration.
+- **Glasses or Sun Glasses** (optional): I'm part of the camp that believes bigger sunglasses are better, so while I'd love to own a pair of pink Dior So Light sunglasses I'll settle for my Burberry transition prescription (I'm super near-sighted) glasses... for now.
+- **Prescription Meds/First Aid Kit**: Does this even need explaining? Don't ruin your trip because you can't breath because you forgot your inhaler. Similarly, don't be upset in Bali with Bail Belly, because you forgot to pack a basic med kit for diarrhea, nausea, and fever. I keep my med kit in the luggage that goes in the overhead bin, but meds like [Pamprin](https://amzn.to/3PLoaLQ) for headache and cramps and [Emergen-C] (https://amzn.to/3ckPvGi) for immune support stays in my personal item under the seat in front. 
+- **Makeup** (optional): I'm not big on makeup, but I do have a few items I talk about in another post.
+- **Misc.**: Ah, the ol' catch all. This is where you try to fit in the kitchen sink, right? No, this is where you keep things like lip balm, hand san, do, hand lotion, wipes, and ladies I recommend adding an Aunt Flo surprise visit kit. Mine contains a few pantyliners, pads, tampons, feminine wipes, and a _new_ pair of panties in a zip lock bag. Why specifically new? Because _new_ things make me happy and being surprised by Aunt Flo is _usually_ NOT a happy event. Although she can inspire relief from time to time.  
 
 #### Liquids Pouch (optional)
 
-If you plan to pack liquids in your carry on bag, you will need a TSA-Approved clear liquid pouch to place it in. The [Sepduvon Toiletry Bag](https://amzn.to/3OlEamL) comes with a removable clear liquid pouch. I like that I can place it back in the toiletry bag once I clear TSA. I keep the following in my liquids bag:   
-  - Cute Penguin Shaped [Silicon Leak Proof Travel Size Bottles](https://amzn.to/3OqCM2a) four (4) Piece Set 
-  - 20ml [Silicone Cream Jars](https://amzn.to/3zihvUa) three (3) Piece Set 
-  - [CeraVe Facial Moisturizing Lotion 3oz. AM/PM Bundle](https://amzn.to/3PokfF8)
-  - [CeraVe Eye Repair Cream](https://amzn.to/3yVtGov)
-  - A [Matador FlatPak Bottle](https://amzn.to/3aWHLKr) that always contains my favorite [100% Aloe Vera Soothing & Moisture Gel](https://amzn.to/3RNnYh2)
+If you plan to pack liquids in your carry on bag, make sure that ALL liquids are NOT larger than 100ml (3.4oz) and stored in a TSA-Approved (20cm x 20cm) see-through liquid bag. The [Sepduvon Toiletry Bag](https://amzn.to/3OlEamL) comes with a removable clear liquid pouch. I like that I can place it back in the toiletry bag once I clear TSA. I keep the following in my liquids bag:   
+
+* Cute Penguin Shaped [Silicon Leak Proof Travel Size Bottles](https://amzn.to/3OqCM2a) four (4) Piece Set 
+* 20ml [Silicone Cream Jars](https://amzn.to/3zihvUa) three (3) Piece Set 
+* [CeraVe Facial Moisturizing Lotion 3oz. AM/PM Bundle](https://amzn.to/3PokfF8)
+* [CeraVe Eye Repair Cream](https://amzn.to/3yVtGov)
+* A [Matador FlatPak Bottle](https://amzn.to/3aWHLKr) that always contains my favorite [100% Aloe Vera Soothing & Moisture Gel](https://amzn.to/3RNnYh2)
 
 I'll save the detailed info on the what is in the bottles and jars for another post. 😉
-  
+
 #### Tech and Toys
 
-The camera, the apps, and the entertainment all in one little device makes packing a smartphone with you a no-brainer. I personally use the [iPhone 11](https://amzn.to/3cqvu1c) with the [Apple Watch Series 4](https://amzn.to/3RRxD6o). They make a great combo. I prefer bring my [11" iPad Pro](https://amzn.to/3RRxD6o) with the Kindle app rather than a Kindle e-reader, but if you just plan to read and only read for entertainment on your trip I've heard the Kindle Paperwhite battery practically lasts forever. I don't carry my laptop to every trip but when I do I take the [13" MacBook Air](https://amzn.to/3PM08AG). Its small, light, and the battery usually lasts a full work day and then some. But because Apple doesn't believe in ports I do have to carry this [NOVOO USB C Hub](https://amzn.to/3RRAn3G) too but it fits nicely in my [electronics organizer](https://amzn.to/3v5QYqJ). Every since I bought the [SONY WH-1000XM3 Wireless Noise canceling Stereo Headset](https://amzn.to/3cxHxdf) whew what a mouth full I cannot go on a plane without them. How in the world I did flights before the wonder of noise canceling I'll never know. The [Nintendo Switch](https://amzn.to/3v118ZK) is another one of those things I don't always carry but I'm a nerd and can't help myself sometimes. I don't have a dedicated camera yet but I'm really considering buying the [Sony A7C](https://electronics.sony.com/imaging/interchangeable-lens-cameras/all-interchangeable-lens-cameras/p/ilce7c-b) until then my good ol' iPhone 11 camera is good enough. For data storage I have a [SAMSUNG T7 Touch Portable SSD 500GB](https://amzn.to/3OntGDm) but I'll admit, I think the fingerprint reader is probably overkill. I pretty much throw all the power bricks from my electronics, a [Road Warrior universal travel adapter](https://amzn.to/3ojRtJU), an [Anker power strip](https://amzn.to/3B1FtUZ), and anything else that doesn't fit in my electronics organizer in a sac and call it a day. For all the times I forget to charge my gear the night before I need it, you would think I have a power bank or two... but I don't (I'm working on that). I also don't have a pocket Wi-Fi yet but I'm eyeballin' [this one](https://www.amazon.com/dp/B08HN54SV2/?coliid=I1D78P735UZS20&colid=3SF5647CI1SE4&ref_=lv_ov_lig_dp_it&th=1) because I totally need to bypass the firewall in china without a VPN... 🙄
+⚠️ Disclaimer: I like tech plus I'm a nerd so I have some items here that may not be necessary for everyone so take away from/add to this list at your discretion.
+
+- **Smartphone**(#1 must have) & _smart_**watch** (optional): The camera, all the apps, and the entertainment all in one little device makes packing a smartphone a no-brainer. I personally use the [iPhone 11](https://amzn.to/3cqvu1c) with the [Apple Watch Series 4](https://amzn.to/3RRxD6o). They make a great combo. Did you know the apple watch can be used as a viewfinder and remote for taking pictures on your phone? 
+- **Tablet/e-reader** (optional): I prefer bring my [11" iPad Pro](https://amzn.to/3RRxD6o) with the Kindle app rather than a dedicated Kindle e-reader, but if you just plan to read and only read for entertainment on your trip I've heard the Kindle Paperwhite battery practically lasts forever. 
+- **Laptop** (optional): I don't carry my laptop to every trip but when I do, I take the [13" MacBook Air](https://amzn.to/3PM08AG). Its small, light, and the battery usually lasts a full work day and then some. However, because Apple doesn't believe in ports I also carry this [NOVOO USB C Hub](https://amzn.to/3RRAn3G), and it fits nicely in my [electronics organizer](https://amzn.to/3v5QYqJ). 
+- **Headphone / Earbuds**: Every since I bought the [SONY WH-1000XM3 Wireless Noise canceling Stereo Headset](https://amzn.to/3cxHxdf) whew what a mouth full I cannot go on a plane without them. No seriously a noise canceling over-ear/on-ear/in-ear device is not optional! 
+- **Portable Console** (optional): The [Nintendo Switch](https://amzn.to/3v118ZK) is another one of those things I don't always carry but I'm a nerd and can't help myself sometimes. 
+- **Camera** (optional):  I'm currently in the market for a quality camera and I'm really considering the [Sony A7C](https://electronics.sony.com/imaging/interchangeable-lens-cameras/all-interchangeable-lens-cameras/p/ilce7c-b) but until I save up enough $$$ my good ol' iPhone 11 camera is good enough. 
+- **Data Storage** (optional): If you take plenty of photos & video like me this ain't optional. I have a [SAMSUNG T7 Touch Portable SSD 500GB](https://amzn.to/3OntGDm) but I'll admit, I think the fingerprint reader is probably overkill. 
+- **Chargers, Universal Adapter, Power Strip, etc.**: I pretty much throw the power bricks from all my electronics, a [Road Warrior universal travel adapter](https://amzn.to/3ojRtJU), an [Anker power strip](https://amzn.to/3B1FtUZ), and anything else that doesn't fit in my electronics organizer into a sac and call it a day. 
+- **Power Bank**: For all the times I forget to charge my gear, and all the heartache dead electronics have caused me, you would think I own a power bank or two... but I don't (I'm working on that). 
+- **Pocket Wi-Fi**: I also don't have a pocket Wi-Fi yet but I'm eyeballin' [this one](https://www.amazon.com/dp/B08HN54SV2/?coliid=I1D78P735UZS20&colid=3SF5647CI1SE4&ref_=lv_ov_lig_dp_it&th=1) because I totally need to bypass the firewall in china without a VPN... 🙄
+- **Plastic Balisong** (super optional): Last item, and probably pretty useless for most people, but every since I saw [Peter McKinnon - What's in my camara bag 2019](https://youtu.be/nJud8QEjkLE) I've wanted one but could never justify the price of a real Squiddy so when I found this [Plastic Balisong Butterfly Knife](https://amzn.to/3ISF895) it's become a toy that I must have in my bag.  
 
 ### Airport outfit
 
