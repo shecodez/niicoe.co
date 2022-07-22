@@ -17,6 +17,7 @@ Okay who here gets a little stressed when it's time to pack for a trip?
 <img src="https://media.giphy.com/media/dBCi8mG5jR8cqgejwj/giphy.gif" width="33%" height="auto" alt="TSA says no">  
 </div> 
 
+
 I know it's tempting try to pack everything but the kitchen sink --but you are the GOAT not a pack mule! 🐐🏆
 
 No matter if I choose to travel light and take only carry on (plus the personal item) or break out the heavy duty check-in luggage, my carry on always contains:
@@ -28,7 +29,9 @@ So today, I'm sharing my go-to eco-friendly carry on packing list that I use no 
 
 <img src="https://media.giphy.com/media/4VBMKtNpJW2Xe/giphy.gif" width="250" height="auto" alt="Goat driving">
 
+
 > ⚠️ **DISCLOSURE**: I only endorse things I personally use and love. Should you chose to purchase anything using my referral links, as an Amazon Associate, I may earn a small commission from qualifying purchases. However, there is absolutely NO extra cost to you. 
+
 
 ### 🎵 Carry On... my wayward son
 
@@ -52,7 +55,8 @@ With this duo, I don't even need a check-in bag sometimes. There's something nic
 
 Now while I don't condone using your backpack to store stolen egg rolls, no matter how tasty, from an all you can eat Chinese buffet. 🤣 I do absolute love a versatile backpack that can store all my gear whether it's just clothes for the weekend or expensive tech and camera gear. After years of searching, then another waiting for it be on sale, I finally acquired the [Wandrd PRVKE 21](https://www.wandrd.com/products/prvke?variant=39289416122448). My friends thought it was so nice last time we all vacationed together, two (2) of them recently bought one for themselves. Since I purchased mine (years ago) they've made some improvements.
 
-<img src="https://res.cloudinary.com/shecodez/image/upload/v1658447216/carry%20on%20packing%20list%20images/wandrd_prvke.png" alt="Wandrd PRVKE" style="max-width:100%">
+<img src="https://res.cloudinary.com/shecodez/image/upload/v1658447216/carry%20on%20packing%20list%20images/wandrd_prvke.png" alt="Wandrd PRVKE">
+
 
 > We’ve taken our award-winning PRVKE line and made improvements to features and comfort. We started by updating the back panel and shoulder straps. Implementing new shapes and padding to create a more comfortable, breathable, and versatile carrying experience for all body shapes and sizes.
 >
@@ -78,7 +82,8 @@ Why can't we just pack a couple puppies our backpack and call it a day... so fre
 
 #### Documents and Important stuff
 
-<img src="https://res.cloudinary.com/shecodez/image/upload/v1658447216/carry%20on%20packing%20list%20images/docs_and_important_stuff.png" alt="Documents and important stuff" style="max-width:100%">
+<img src="https://res.cloudinary.com/shecodez/image/upload/v1658447216/carry%20on%20packing%20list%20images/docs_and_important_stuff.png" alt="Documents and important stuff">
+
 There isn't much to say on the following items just make sure you have both the originals and digital / photocopies backups.
 
 * **Passport, Visa, etc.** 'Cause you ain't goin nowhere without it.
@@ -90,7 +95,7 @@ There isn't much to say on the following items just make sure you have both the 
 
 #### Comfort Items
 
-<img src="https://res.cloudinary.com/shecodez/image/upload/v1658447374/carry%20on%20packing%20list%20images/comfort_items.jpg" alt="Comfort Items" style="max-width:100%">
+<img src="https://res.cloudinary.com/shecodez/image/upload/v1658447374/carry%20on%20packing%20list%20images/comfort_items.jpg" alt="Comfort Items">
 For the love of comfort don't leave your house without mints, a snack, and a reusable water bottle! Here are my personal favorites.
 
 * **Earplugs, Eye Mask, Neck Pillow** (optional): you can usually get all of these in a set, but I only pack these [lavender warming eye masks](https://amzn.to/3IVJHPJ) from Japan  because I always have my noise canceling headphones and a hoodie or oversized scarf that can double as a neck pillow. #multipurpose
@@ -105,7 +110,7 @@ For the love of comfort don't leave your house without mints, a snack, and a reu
 
 #### Liquids Pouch (optional)
 
-<img src="https://res.cloudinary.com/shecodez/image/upload/v1658447316/carry%20on%20packing%20list%20images/toiletries.jpg" alt="Liquids pouch" style="max-width:100%">
+<img src="https://res.cloudinary.com/shecodez/image/upload/v1658447316/carry%20on%20packing%20list%20images/toiletries.jpg" alt="Liquids pouch" >
 
 If you plan to pack liquids in your carry on bag, make sure that ALL liquids are NOT larger than 100ml (3.4oz) and stored in a TSA-Approved (20cm x 20cm) see-through liquid bag. The [Sepduvon Toiletry Bag](https://amzn.to/3OlEamL) comes with a removable clear liquid pouch. I like that I can place it back in the toiletry bag once I clear TSA. I keep the following in my liquids bag:   
 
@@ -119,8 +124,11 @@ I'll save the detailed info on the what is in the bottles and jars for another p
 
 #### Tech and Toys 🎮
 
-<img src="https://res.cloudinary.com/shecodez/image/upload/v1658499453/carry%20on%20packing%20list%20images/tech_and_toys.png" alt="Tech and Toys" style="max-width:100%">
+<img src="https://res.cloudinary.com/shecodez/image/upload/v1658499453/carry%20on%20packing%20list%20images/tech_and_toys.png" alt="Tech and Toys" >
+
+
 ⚠️ Disclaimer: I like tech plus I'm a nerd so I have some items here that may not be necessary for everyone so take away from/add to this list at your discretion.
+
 
 * **Smartphone**(#1 must have) & *smart***watch** (optional): The camera, all the apps, and the entertainment all in one little device makes packing a smartphone a no-brainer. I personally use the [iPhone 11](https://amzn.to/3cqvu1c) with the [Apple Watch Series 4](https://amzn.to/3RRxD6o). They make a great combo. Did you know the apple watch can be used as a viewfinder and remote for taking pictures on your phone? 
 * **Tablet/e-reader** (optional): I prefer bring my [11" iPad Pro](https://amzn.to/3RRxD6o) with the Kindle app rather than a dedicated Kindle e-reader, but if you just plan to read and only read for entertainment on your trip I've heard the Kindle Paperwhite battery practically lasts forever. 
