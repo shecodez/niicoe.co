@@ -85,7 +85,7 @@ There isn't much to say on the following items just make sure you have both the 
 * **Local Currency / Credit Cards** (I get mine exchanged at my local bank so I don't have to suffer airport exchange rate rip-offs)
 * **Itinerary** Make sure you have the addresses you need to get to in the language of the country you're visiting (or you will be pushed aside by a drunk Korean guy because you're taking too long to explain where you need to go to the taxi driver...) 
 * **Travel Insurance**: I don't have one to recommend at the moment but please do you research on this and make sure you have it! It is always better to be safe than sorry.
-* **spare clothes**: I wouldn't pack more than a small packing cube full. Mine contains a swimsuit that looks like a body suit, khaki shorts, a LBD (Little Black Dress), some nicee looking foldable flats, and undies.
+* **spare clothes**: I wouldn't pack more than a small packing cube full. Mine contains a light weight multipurpose [swim shirt that is UPF 50+](https://amzn.to/3PzDkEA), shorts, a LBD (Little Black Dress), foldable flats, and undies.
 * **Valuables**: Don't pack your valuables in your check-in bag... Please.🙏 
 
 #### Comfort Items
@@ -119,7 +119,7 @@ I'll save the detailed info on the what is in the bottles and jars for another p
 
 #### Tech and Toys 🎮
 
-<img src="https://res.cloudinary.com/shecodez/image/upload/v1658447218/carry%20on%20packing%20list%20images/tech_and_toys.png" alt="Tech and Toys" style="max-width:100%">
+<img src="https://res.cloudinary.com/shecodez/image/upload/v1658499453/carry%20on%20packing%20list%20images/tech_and_toys.png" alt="Tech and Toys" style="max-width:100%">
 ⚠️ Disclaimer: I like tech plus I'm a nerd so I have some items here that may not be necessary for everyone so take away from/add to this list at your discretion.
 
 * **Smartphone**(#1 must have) & *smart***watch** (optional): The camera, all the apps, and the entertainment all in one little device makes packing a smartphone a no-brainer. I personally use the [iPhone 11](https://amzn.to/3cqvu1c) with the [Apple Watch Series 4](https://amzn.to/3RRxD6o). They make a great combo. Did you know the apple watch can be used as a viewfinder and remote for taking pictures on your phone? 
@@ -132,7 +132,7 @@ I'll save the detailed info on the what is in the bottles and jars for another p
 * **Chargers, Universal Adapter, Power Strip, etc.**: I pretty much throw the power bricks from all my electronics, a [Road Warrior universal travel adapter](https://amzn.to/3ojRtJU), an [Anker power strip](https://amzn.to/3B1FtUZ), and anything else that doesn't fit in my electronics organizer into a sac and call it a day. 
 * **Power Bank**: For all the times I forget to charge my gear, and all the heartache dead electronics have caused me, you would think I own a power bank or two... but I don't (I'm working on that). 
 * **Pocket Wi-Fi**: I also don't have a pocket Wi-Fi yet but I'm eyeballin' [this one](https://www.amazon.com/dp/B08HN54SV2/?coliid=I1D78P735UZS20&colid=3SF5647CI1SE4&ref_=lv_ov_lig_dp_it&th=1) because I totally need to bypass the firewall in china without a VPN... 🙄
-* **Plastic Balisong** (super optional): Last item, and probably pretty useless for most people, but every since I saw [Peter McKinnon - What's in my camara bag 2019](https://youtu.be/nJud8QEjkLE) I've wanted one but could never justify the price of a real Squiddy so when I found this [Plastic Balisong Butterfly Knife](https://amzn.to/3ISF895) it's become a toy that I must have in my bag.  
+* **Plastic Balisong** (super optional): Last item, and probably pretty useless for most people, but every since I saw [Peter McKinnon - What's in my camara bag 2019](https://youtu.be/nJud8QEjkLE) I've wanted one but could never justify the price of a real Squiddy so when I found this [Plastic Balisong Butterfly Knife](https://amzn.to/3OtxKSK) it's become a toy that I must have in my bag.  
 
 ### Whew you made it to the end!
 
