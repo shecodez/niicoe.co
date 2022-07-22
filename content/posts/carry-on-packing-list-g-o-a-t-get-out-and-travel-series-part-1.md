@@ -50,6 +50,8 @@ With this duo, I don't even need a check-in bag sometimes. There's something nic
 
 Now while I don't condone using your backpack to store stolen egg roll, no matter how tasty, from the all you can eat Chinese buffet. 🤣 I do absolute love a versatile backpack that can store all my gear whether it's just clothes for the weekend or expensive tech and camera gear. After years of searching, then another waiting for it be on sale, I finally acquired the [Wandrd PRVKE 21](https://www.wandrd.com/products/prvke?variant=39289416122448). My friends thought it was so nice last time we all vacationed together, two (2) of them recently bought one for themselves. Since I purchased mine (years ago) they've made some improvements.
 
+<img src="https://res.cloudinary.com/shecodez/image/upload/v1658447216/carry%20on%20packing%20list%20images/wandrd_prvke.png" alt="Wandrd PRVKE" style="max-width:100%">
+
 > We’ve taken our award-winning PRVKE line and made improvements to features and comfort. We started by updating the back panel and shoulder straps. Implementing new shapes and padding to create a more comfortable, breathable, and versatile carrying experience for all body shapes and sizes.
 >
 > We updated the Hidden Passport Pocket to be larger and more discreet. We also added a luggage pass-through strap. Other external changes include stronger magnets in the Tote Handles, updated zipper u-pullers, new easier-to-use Key Hook, branding updates, and velcro-and-roll Cinch Strap webbing organization. 
@@ -73,16 +75,20 @@ Why can't we just pack a couple puppies our backpack and call it a day... so fre
 > **IMPORTANT NOTE**: All the items in the list (even the optional ones) can fit inside either the [Wandrd PRVKE 21](https://www.wandrd.com/products/prvke?variant=39289416122448) or the [Amazon Basics Golf Duffel Bag](https://amzn.to/3B4yj2e) alone. In fact, even after everything is below is packed up, I still have space left over for extras, and you will too. Thank me later!
 
 #### Documents and Important stuff
+<img src="https://res.cloudinary.com/shecodez/image/upload/v1658447216/carry%20on%20packing%20list%20images/docs_and_important_stuff.png" alt="Documents and important stuff" style="max-width:100%">
+There isn't much to say on the following items just make sure you have both the originals and digital / photocopies backups.
 
-* passport/ids
-* itinerary 
-* cash/credit cards
-* travel insurance
-* spare clothes
-* valuables
+- **Passport, Visa, etc.** 'Cause you ain't goin nowhere without it.
+- **Local Currency / Credit Cards** (I get mine exchanged at my local bank so I don't have to suffer airport exchange rate rip-offs)
+- **Itinerary** Make sure you have the addresses you need to get to in the language of the country you're visiting (or you will be pushed aside by a drunk Korean guy because you're taking too long to explain where you need to go to the taxi driver...) 
+- **Travel Insurance**: I don't have one to recommend at the moment but please do you research on this and make sure you have it! It is always better to be safe than sorry.
+- **spare clothes**: I wouldn't pack more than a small packing cube full. Mine contains a swimsuit that looks like a body suit, khaki shorts, a LBD (Little Black Dress), some nicee looking foldable flats, and undies.
+- **Valuables**: Don't pack your valuables in your check-in bag... Please.🙏 
 
 #### Comfort Items
-For the love of comfort don't leave your house without mints, a snack, and a reusable water bottle! Here are my personal favorites:
+<img src="https://res.cloudinary.com/shecodez/image/upload/v1658447374/carry%20on%20packing%20list%20images/comfort_items.jpg" alt="Comfort Items" style="max-width:100%">
+For the love of comfort don't leave your house without mints, a snack, and a reusable water bottle! Here are my personal favorites.
+
 - **Earplugs, Eye Mask, Neck Pillow** (optional): you can usually get all of these in a set, but I only pack these [lavender warming eye masks](https://amzn.to/3IVJHPJ) from Japan  because I always have my noise canceling headphones and a hoodie or oversized scarf that can double as a neck pillow. #multipurpose
 - **Snacks** (optional for who?!) my go to is Gardetto Rosted Garlic Rye Chips and Blue Diamond Smokehouse Almonds.
 - **Toothbrush, Floss, Face Mask, Sheet Mask** (optional): I keep a [quip Electric Toothbrush](https://amzn.to/3ct5a6z) (because I'm extra and can't live without an electric toothbrush even when traveling), quip floss dispenser, tongue scraper, a spare [face mask](https://amzn.to/3yWzxKi), and a [sheet mask pack](https://amzn.to/3cyPRco) in a [small mesh nylon zipper pouch](https://amzn.to/3Ptyk48).
@@ -94,6 +100,7 @@ For the love of comfort don't leave your house without mints, a snack, and a reu
 - **Misc.**: Ah, the ol' catch all. This is where you try to fit in the kitchen sink, right? No, this is where you keep things like lip balm, hand san, do, hand lotion, a [Xiaome Mijia nail clipper set](https://amzn.to/3cpAGCl), and ladies I recommend adding an Aunt Flo surprise visit kit. Mine contains a few pantyliners, pads, tampons, feminine wipes, and a _new_ pair of panties in a zip lock bag. Why specifically new? Because _new_ things make me happy and being surprised by Aunt Flo is _usually_ NOT a happy event. Although she has been known to inspire relief from time to time. ⛔👶 
 
 #### Liquids Pouch (optional)
+<img src="https://res.cloudinary.com/shecodez/image/upload/v1658447316/carry%20on%20packing%20list%20images/toiletries.jpg" alt="Liquids pouch" style="max-width:100%">
 
 If you plan to pack liquids in your carry on bag, make sure that ALL liquids are NOT larger than 100ml (3.4oz) and stored in a TSA-Approved (20cm x 20cm) see-through liquid bag. The [Sepduvon Toiletry Bag](https://amzn.to/3OlEamL) comes with a removable clear liquid pouch. I like that I can place it back in the toiletry bag once I clear TSA. I keep the following in my liquids bag:   
 
@@ -106,7 +113,7 @@ If you plan to pack liquids in your carry on bag, make sure that ALL liquids are
 I'll save the detailed info on the what is in the bottles and jars for another post. 😉
 
 #### Tech and Toys
-
+<img src="https://res.cloudinary.com/shecodez/image/upload/v1658447218/carry%20on%20packing%20list%20images/tech_and_toys.png" alt="Tech and Toys" style="max-width:100%">
 ⚠️ Disclaimer: I like tech plus I'm a nerd so I have some items here that may not be necessary for everyone so take away from/add to this list at your discretion.
 
 - **Smartphone**(#1 must have) & _smart_**watch** (optional): The camera, all the apps, and the entertainment all in one little device makes packing a smartphone a no-brainer. I personally use the [iPhone 11](https://amzn.to/3cqvu1c) with the [Apple Watch Series 4](https://amzn.to/3RRxD6o). They make a great combo. Did you know the apple watch can be used as a viewfinder and remote for taking pictures on your phone? 
@@ -121,8 +128,7 @@ I'll save the detailed info on the what is in the bottles and jars for another p
 - **Pocket Wi-Fi**: I also don't have a pocket Wi-Fi yet but I'm eyeballin' [this one](https://www.amazon.com/dp/B08HN54SV2/?coliid=I1D78P735UZS20&colid=3SF5647CI1SE4&ref_=lv_ov_lig_dp_it&th=1) because I totally need to bypass the firewall in china without a VPN... 🙄
 - **Plastic Balisong** (super optional): Last item, and probably pretty useless for most people, but every since I saw [Peter McKinnon - What's in my camara bag 2019](https://youtu.be/nJud8QEjkLE) I've wanted one but could never justify the price of a real Squiddy so when I found this [Plastic Balisong Butterfly Knife](https://amzn.to/3ISF895) it's become a toy that I must have in my bag.  
 
-### Airport outfit
+### Whew you made it to the end!
+<img src="https://media.giphy.com/media/APS271ibedejm/giphy.gif" alt="That's all folks">  
 
-* footwear
-* compression socks (optional)
-* hoodie/oversize scarf
+I really hope this helps you G.O.A.T (Get Out And Travel) faster and with less hassle and headache. It is totally okay if you decide to take more items than the ones on this list but even better if manage to take less. Everyone is different but I think we all need the same basic things when traveling. Be on the lookout for a YouTube video where I will pack all these items and show you what fits where. Until then Keep Calm, and G.O.A.T On! 
