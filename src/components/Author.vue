@@ -5,7 +5,7 @@
     </h1>
 
     <p class="author__intro">
-      A Eco friendly lifestyle, Travel, Foodie Blogger + Photographer &amp; Vlogger Portfolio
+      A Eco friendly lifestyle, Travel, Food Blogger + Photographer &amp; Vlogger Portfolio
     </p>
 
     <p class="author__links">

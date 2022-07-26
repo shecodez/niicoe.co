@@ -11,7 +11,7 @@ description: I know it's tempting try to pack everything but the kitchen sink
 ---
 Okay who here gets a little stressed when it's time to pack for a trip? 
 
-<div style="display: flex;">
+<div style="display: flex; overflow: auto;">
 <img src="https://media.giphy.com/media/2LM1PMisy0Lvo0qmp8/giphy.gif" width="33%" height="auto" alt="Raise hand gif">  
 <img src="https://media.giphy.com/media/3o7TKFy1gaoy1JNqZG/giphy.gif" width="33%" height="auto" alt="SNL oversized Luggage">  
 <img src="https://media.giphy.com/media/dBCi8mG5jR8cqgejwj/giphy.gif" width="33%" height="auto" alt="TSA says no">  

@@ -6,7 +6,6 @@
       </h1>
 
       <PostMeta :post="$page.post" />
-
     </div>
 
     <div class="post content-box">
@@ -22,7 +21,9 @@
     </div>
 
     <div class="post-comments">
-      <!-- Add comment widgets here -->
+      <!-- Add comment widgets here 
+      <h2>Comments</h2>
+      <CommentForm :postId="$page.post.path" />-->
     </div>
 
     <Author class="post-author" />
@@ -30,28 +31,30 @@
 </template>
 
 <script>
-import PostMeta from '~/components/PostMeta'
-import PostTags from '~/components/PostTags'
-import Author from '~/components/Author.vue'
+import PostMeta from '~/components/PostMeta';
+import PostTags from '~/components/PostTags';
+import Author from '~/components/Author.vue';
+import CommentForm from '../components/CommentForm.vue';
 
 export default {
   components: {
     Author,
     PostMeta,
-    PostTags
+    PostTags,
+    CommentForm,
   },
-  metaInfo () {
+  metaInfo() {
     return {
       title: this.$page.post.title,
       meta: [
         {
           name: 'description',
-          content: this.$page.post.description
-        }
-      ]
-    }
-  }
-}
+          content: this.$page.post.description,
+        },
+      ],
+    };
+  },
+};
 </script>
 
 <page-query>
@@ -80,7 +83,6 @@ query Post ($id: ID!) {
 }
 
 .post {
-
   &__header {
     width: calc(100% + var(--space) * 2);
     margin-left: calc(var(--space) * -1);

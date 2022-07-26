@@ -66,11 +66,10 @@ export default {
 }
 
 .main__banner {
-  height: 20%;
-  position: fixed;
-  left: 8%;
+  height: 10%;
+  position: absolute;
+  left: 15%;
   top: 0;
-  z-index: 99;
 }
 @media only screen and (max-width: 600px) {
   .main__banner {
